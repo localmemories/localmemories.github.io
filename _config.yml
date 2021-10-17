@@ -99,7 +99,8 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: splash
+      layout: single
+      classes: wide
       author_profile: true
       read_time: true
       show_date: true
@@ -111,7 +112,8 @@ defaults:
       path: "_pages"
       type: pages
     values:
-      layout: splash
+      layout: single
+      classes: wide
       author_profile: true
 
 category_archive:
