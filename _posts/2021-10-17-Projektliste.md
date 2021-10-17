@@ -8,7 +8,7 @@ tags:
   - Tutorials
 ---
 
-Eine liste kleiner Projekte die ihren Weg auf diesen Blog finden:
+Eine Liste kleiner Projekte die ihren Weg auf diesen Blog finden:
 
 * Installation Psono Passwortmanager
 * Shokoanime
