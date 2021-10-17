@@ -5,7 +5,7 @@ categories:
 tags:
   - Howtos
   - Projektliste
-  - Tutoials
+  - Tutorials
 ---
 
 Eine liste kleiner Projekte die ihren Weg auf diesen Blog finden:
