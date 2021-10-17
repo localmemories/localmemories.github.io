@@ -19,8 +19,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
-twitter_username: username
-github_username: username
+#twitter_username: username
+#github_username: username
 minimal_mistakes_skin: dark
 search: true
 
@@ -58,9 +58,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Viktor Roth"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Dieser Blog dient dem Zweck alle IT relevante Themen zu dokumentieren und mit der ganzen Welt zu teilen. Vielleicht findet hier jemand das ein oder andere etwas brauchbares."
+  bio    : "Dieser Blog dient dem Zweck alle IT relevanten Themen mit denen ich in beruehrung komme mit der ganzen Welt zu teilen. Vielleicht findest du hier etwas brauchbares."
   links:
 #   - label: "Website"
 #      icon: "fas fa-fw fa-link"
