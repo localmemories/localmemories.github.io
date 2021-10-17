@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Viktor Roth"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Dieser Blog dient dem Zweck alle IT relevanten Themen mit denen ich in beruehrung komme mit der ganzen Welt zu teilen. Vielleicht findest du hier etwas brauchbares."
+  bio    : "Ein kleiner IT-Blog. Vielleicht findest du hier etwas brauchbares."
   links:
 #   - label: "Website"
 #      icon: "fas fa-fw fa-link"
