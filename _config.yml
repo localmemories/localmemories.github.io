@@ -58,7 +58,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Viktor"
+  name   : "Viktor Roth"
   avatar : "/assets/images/20210913_181839_cropped.jpg"
   bio    : "My tiny IT-Blog. I hope you will find what you are looking for."
   links:
