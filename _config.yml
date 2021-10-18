@@ -68,6 +68,12 @@ author:
 #   - label: "Twitter"
 #     icon: "fab fa-fw fa-twitter-square"
 #     url: "https://twitter.com/"
+    - label: "Xing"
+      icon: "fab fa-xing"
+      url: "https://www.xing.com/profile/Viktor_Roth8/cv"
+    - label: "Linkedin"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/viktor-roth-2a10971b3/"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:mail@rothv.de
