@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Viktor"
   avatar : "/assets/images/20210913_181839_cropped.jpg"
-  bio    : "Ein kleiner IT-Blog. Vielleicht findest du hier etwas brauchbares."
+  bio    : "My tiny IT-Blog. I hope you will find what you are looking for."
   links:
 #   - label: "Website"
 #      icon: "fas fa-fw fa-link"
