@@ -81,7 +81,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/localmemories"
     - label: "Resume"
-      icon: "fab fa-website"
+      icon: "far fa-file"
       url: "https://blog.localmemories.net/assets/Myresume.pdf"
 #    - label: "Instagram"
 #      icon: "fab fa-fw fa-instagram"
